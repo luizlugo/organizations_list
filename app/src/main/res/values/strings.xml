@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">github organizations</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="welcome_brief">A modern app that will display you a list of github organizations</string>
+    <string name="login_with_github">Continue with Github</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="ok_option">Ok</string>
+    <string name="organizations_list">Github Organizations</string>
+    <string name="view_github">Open Github</string>
+</resources>
